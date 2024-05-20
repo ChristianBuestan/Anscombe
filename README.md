@@ -3,7 +3,9 @@
 
 # **Universidad Politécnica Salesiana**
 
-**Asignatura de computación**
+**Carrera de computación**
+
+**Periodo 64**
 
 **Materia de Minería de Datos**
 
